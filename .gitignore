@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/common/build/
+/common/build/intermediates/javac/debug/classes/
+/superplayerdemo/build/
+/superplayerdemo/build/intermediates/javac/debug/classes/
+/superplayerkit/build/
+/superplayerkit/build/intermediates/javac/debug/classes/
